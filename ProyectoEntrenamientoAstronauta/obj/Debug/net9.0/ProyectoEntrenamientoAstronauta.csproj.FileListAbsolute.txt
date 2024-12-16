@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\bin\Debug\net9.0\ProyectoEntrenamientoAstronauta.exe
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\bin\Debug\net9.0\ProyectoEntrenamientoAstronauta.deps.json
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\bin\Debug\net9.0\ProyectoEntrenamientoAstronauta.runtimeconfig.json
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\bin\Debug\net9.0\ProyectoEntrenamientoAstronauta.dll
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\bin\Debug\net9.0\ProyectoEntrenamientoAstronauta.pdb
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ProyectoEntrenamientoAstronauta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ProyectoEntrenamientoAstronauta.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ProyectoEntrenamientoAstronauta.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ProyectoEntrenamientoAstronauta.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ProyectoEntrenamientoAstronauta.dll
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\refint\ProyectoEntrenamientoAstronauta.dll
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ProyectoEntrenamientoAstronauta.pdb
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ProyectoEntrenamientoAstronauta.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\ProyectoEntrenamientoAstronauta\obj\Debug\net9.0\ref\ProyectoEntrenamientoAstronauta.dll
