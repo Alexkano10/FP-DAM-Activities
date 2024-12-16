@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Proyects\\FP DAM\\FP-DAM-Activities\\ProyectoEntrenamientoAstronauta\\ProyectoEntrenamientoAstronauta.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Proyects\\FP DAM\\FP-DAM-Activities\\CSharp\\ProyectoEntrenamientoAstronauta\\ProyectoEntrenamientoAstronauta.csproj",
       "projectName": "ProyectoEntrenamientoAstronauta",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\Proyects\\FP DAM\\FP-DAM-Activities\\ProyectoEntrenamientoAstronauta\\ProyectoEntrenamientoAstronauta.csproj",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\Proyects\\FP DAM\\FP-DAM-Activities\\CSharp\\ProyectoEntrenamientoAstronauta\\ProyectoEntrenamientoAstronauta.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\Proyects\\FP DAM\\FP-DAM-Activities\\ProyectoEntrenamientoAstronauta\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\Proyects\\FP DAM\\FP-DAM-Activities\\CSharp\\ProyectoEntrenamientoAstronauta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
