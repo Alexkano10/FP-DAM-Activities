@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\bin\Debug\net8.0-windows\SubmarinoControl.exe
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\bin\Debug\net8.0-windows\SubmarinoControl.deps.json
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\bin\Debug\net8.0-windows\SubmarinoControl.runtimeconfig.json
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\bin\Debug\net8.0-windows\SubmarinoControl.dll
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\bin\Debug\net8.0-windows\SubmarinoControl.pdb
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.Form1.resources
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.AssemblyInfo.cs
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.dll
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\refint\SubmarinoControl.dll
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.pdb
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\SubmarinoControl.genruntimeconfig.cache
+C:\Users\Alex\source\repos\SubmarinoControl\SubmarinoControl\obj\Debug\net8.0-windows\ref\SubmarinoControl.dll
