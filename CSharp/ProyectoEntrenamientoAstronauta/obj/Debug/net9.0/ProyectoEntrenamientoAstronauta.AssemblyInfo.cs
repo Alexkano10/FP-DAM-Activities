@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoEntrenamientoAstronauta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be40737bde806e61a6922afc6042b444078bcf5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e73755ea6c689d25b74f81273e13c6a08b3d6c10")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoEntrenamientoAstronauta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoEntrenamientoAstronauta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

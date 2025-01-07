@@ -1,0 +1,17 @@
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\bin\Debug\net8.0-windows\CronometroConRegistro.exe
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\bin\Debug\net8.0-windows\CronometroConRegistro.deps.json
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\bin\Debug\net8.0-windows\CronometroConRegistro.runtimeconfig.json
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\bin\Debug\net8.0-windows\CronometroConRegistro.dll
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\bin\Debug\net8.0-windows\CronometroConRegistro.pdb
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.Form1.resources
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.sourcelink.json
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.dll
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\refint\CronometroConRegistro.dll
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.pdb
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\CronometroConRegistro.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Proyects\FP DAM\FP-DAM-Activities\CSharp\CronometroConRegistro\CronometroConRegistro\obj\Debug\net8.0-windows\ref\CronometroConRegistro.dll
