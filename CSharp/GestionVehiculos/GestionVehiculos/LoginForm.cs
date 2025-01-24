@@ -28,7 +28,7 @@ namespace GestionVehiculos
                 // Si las credenciales son correctas, abrir la ventana principal(Form1)
                 MessageBox.Show("Inicio de sesión exitoso");
                 this.Hide(); // Oculta la ventana de inicio de sesión
-                Form1 ventanaPrincipal = new Form1();
+                btnGenerarReporte ventanaPrincipal = new btnGenerarReporte();
                 ventanaPrincipal.Show();
             }
             else

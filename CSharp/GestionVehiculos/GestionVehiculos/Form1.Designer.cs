@@ -1,6 +1,6 @@
 ﻿namespace GestionVehiculos
 {
-    partial class Form1
+    partial class btnGenerarReporte
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -41,6 +41,7 @@
             this.btnBorrar = new System.Windows.Forms.Button();
             this.btnConsultar = new System.Windows.Forms.Button();
             this.dgvVehiculos = new System.Windows.Forms.DataGridView();
+            this.btnGenerarReport = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvVehiculos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -158,11 +159,22 @@
             this.dgvVehiculos.Size = new System.Drawing.Size(705, 170);
             this.dgvVehiculos.TabIndex = 12;
             // 
-            // Form1
+            // btnGenerarReport
+            // 
+            this.btnGenerarReport.Location = new System.Drawing.Point(605, 58);
+            this.btnGenerarReport.Name = "btnGenerarReport";
+            this.btnGenerarReport.Size = new System.Drawing.Size(125, 20);
+            this.btnGenerarReport.TabIndex = 13;
+            this.btnGenerarReport.Text = "Generar Reporte";
+            this.btnGenerarReport.UseVisualStyleBackColor = true;
+            this.btnGenerarReport.Click += new System.EventHandler(this.btnExportarPDF_Click);
+            // 
+            // btnGenerarReporte
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1000, 562);
+            this.Controls.Add(this.btnGenerarReport);
             this.Controls.Add(this.dgvVehiculos);
             this.Controls.Add(this.btnConsultar);
             this.Controls.Add(this.btnBorrar);
@@ -176,8 +188,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "btnGenerarReporte";
+            this.Text = "Generar Reporte";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvVehiculos)).EndInit();
             this.ResumeLayout(false);
@@ -200,6 +212,7 @@
         private System.Windows.Forms.Button btnBorrar;
         private System.Windows.Forms.Button btnConsultar;
         private System.Windows.Forms.DataGridView dgvVehiculos;
+        private System.Windows.Forms.Button btnGenerarReport;
     }
 }
 
