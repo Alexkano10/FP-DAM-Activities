@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias DevOps</title>
+    <link>https://example.com</link>
+    <description>Últimas noticias y tendencias en DevOps</description>
+    <language>es</language>
+
+    <item>
+      <title>Docker 25.0 Lanzado</title>
+      <link>https://example.com/docker-25</link>
+      <description>Docker lanza la versión 25.0 con mejoras en rendimiento y seguridad.</description>
+      <pubDate>Mon, 05 Feb 2024 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Kubernetes 1.30 Anunciado</title>
+      <link>https://example.com/kubernetes-1-30</link>
+      <description>La nueva versión de Kubernetes introduce mejoras en autoscaling y networking.</description>
+      <pubDate>Tue, 06 Feb 2024 10:30:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
